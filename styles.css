@@ -1,0 +1,26 @@
+body {
+	background-color: silver;
+	background-image: url('hotelphoto.jpg');
+
+	background-size: cover;
+}
+td {
+	color: lightgoldenrodyellow;
+	font-weight: bold;
+}
+table {border-collapse: collapse;}
+form {color: white}
+#p1 {font-style: italic; color: blueviolet;}
+#form1 {margin: 10px; padding: 5px}
+#form2 {margin: 10px; padding: 5px}
+.btn {
+	transition-duration: 0.3s;
+	border-radius:  10px;
+	padding:  10px;
+}
+.btn:hover {background-color: lightblue;}
+.Dbtn:hover {background-color: red;}
+footer {
+	padding-top: 30%;
+	color:  white;
+}
